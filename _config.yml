@@ -104,7 +104,7 @@ author:
       url: "https://www.cau.ac.kr"
     - label: "Computer Science"
       icon: "fas fa-fw fa-graduation-cap"
-      url: ""
+      url: "#"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:auspic7@gmail.com"
