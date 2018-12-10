@@ -1,4 +1,5 @@
 ---
+redirect_to: "https://auspic7.github.io"
 layout: splash
 permalink: /
 header:

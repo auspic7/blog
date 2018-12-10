@@ -1,4 +1,5 @@
 ---
+redirect_to: "https://auspic7.github.io/web/comparison-with-github-pages-and-other-blog-services"
 layout: "posts"
 title:  "내가 Tistory 블로그에서 Github Pages 호스팅으로 옮긴 이유"
 permalink: "/:categories/comparison-with-github-pages-and-other-blog-services"
